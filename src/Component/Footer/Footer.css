@@ -1,0 +1,49 @@
+.social ul{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  .social ul li{
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    margin: 0 5px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+  }
+  .social ul li a{
+    display: block;
+    color: black;
+    font-size: 20px;
+  }
+  .bg-grey{
+    background-color: #efeaea;
+  }
+  footer{
+    background-image: linear-gradient(to right, #00bed7, #00b9dc, #00b3df, #00ade2, #00a6e4, #00a0e3, #0099e2, #0093e1, #008cdd, #0185da, #0b7dd5, #1576d1);
+overflow: hidden;
+    /* background-color: rgba(237, 253, 255, 0.929) !important; */
+    color: rgba(0, 0, 0, 1) !important;
+    z-index: 99999;
+    
+  }
+  .bg-main-color{
+    background-color: #1576d1;
+  }
+  
+.social ul li a i{
+    line-height: 40px !important;
+  }
+  .social ul li:hover a{
+    color: white !important;
+
+  }
+  .social ul li:hover{
+    background-color: #1576d1;
+    border-color: #1576d1;
+  }

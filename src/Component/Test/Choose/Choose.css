@@ -1,0 +1,99 @@
+
+.symptoms_text{
+    color: white !important;
+    padding: 5px;
+    text-align: center;
+    width: 20%;
+}
+.mide{
+    /* justify-content: start; */
+
+}
+
+.but{
+    color: black;
+    outline: none;
+    background-color: white ;
+    padding: 10px 15px;
+    width: 100%;
+    /* height: 20px; */
+    border: 1px solid black;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    text-align: center !important;
+    margin: 0 auto !important;
+
+ 
+}
+
+.but:hover{
+    background-color: #008E9B !important;
+    border-color: #008E9B  !important;
+}
+
+.ull{
+    display: flex;
+    justify-content: center;
+    text-align: center !important;
+    list-style: none;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}
+.des{
+    color: black;
+    background-color: #008E9B;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding: 10px 0;
+    transition: all .5s ease;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    -o-transition: all .5s ease;
+}
+.des:hover{
+    background-color: rgba(0, 0, 0, .6);
+    color: white;
+}
+
+.nav{
+    border: 3px dashed rgb(2, 2, 48);
+    justify-content: center;
+    border-radius: 20px;
+    background-color: rgb(2, 2, 48);
+    color: white;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    padding: 10px;
+}
+.text-main{
+    color: #008E9B;
+}
+
+/* .btn-2{
+    background-color:antiquewhite !important ;
+    border: 1px solid darkcyan;
+    outline: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: transparent;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.btn-2:hover{
+    background-color: darkcyan !important;
+    color: black;
+}  */

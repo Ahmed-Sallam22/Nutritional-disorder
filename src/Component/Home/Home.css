@@ -1,0 +1,77 @@
+.home{
+  
+    height: auto;
+    position: relative;
+    /* background-color: rgba(237, 253, 255, 0.929) !important; */
+}
+
+/* .layer{
+    position: absolute;
+    background-color: rgba(0, 0, 0, .3) !important;
+    top: 0 ;
+    left: 0 ;
+    right: 0;
+    bottom: 0;
+} */
+
+.cur{
+    cursor: pointer;
+}
+.img{
+    height: 80vh;
+    top: 0;
+    left: 0px;
+    width: 50%;
+
+    background-image: url('./WhatsApp_Image_2023-05-30_at_22.21.37-removebg-preview.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size:contain;
+    position: absolute;
+    background-position: left;
+}
+.imgesaaa{
+    width: 99%;
+    margin: 0 10px;
+}
+
+.text-home{
+    background-image: linear-gradient(to right, #00bed7, #00b9dc, #00b3df, #00ade2, #00a6e4, #00a0e3, #0099e2, #0093e1, #008cdd, #0185da, #0b7dd5, #1576d1);
+   position: relative;
+   height: 80vh;
+   color: white;
+
+}
+.colum{
+    flex-direction: column;
+    gap: 30px;
+}
+
+.button{
+    background-color: #97DEFF !important;
+    color: black;
+    outline: none;
+    border: none;
+}
+
+.vi{
+    position: fixed;
+    left: 50%;
+    min-height: 100%;
+    min-width: 100%;
+    position: fixed;
+    top: 50%;
+}
+
+.borde{
+    text-decoration: underline;
+    color: #1576d1;
+}
+.second .imges{
+    height: 50vh;
+    background-image: linear-gradient(to right, #00bed7, #00b9dc, #00b3df, #00ade2, #00a6e4, #00a0e3, #0099e2, #0093e1, #008cdd, #0185da, #0b7dd5, #1576d1);
+} 
+
+
+
+

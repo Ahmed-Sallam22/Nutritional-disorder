@@ -1,0 +1,18 @@
+.www p{
+    color: black !important;
+}
+.contain{
+    overflow: hidden;
+}
+.bg-pr{
+ color: white !important;
+    background-color: #0081CF;
+}
+.bg-pr:hover{
+    background-color: #4B4453;
+}
+.flex{
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
