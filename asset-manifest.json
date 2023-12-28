@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Nutritional-disorder/static/css/main.88f17c62.css",
-    "main.js": "/Nutritional-disorder/static/js/main.868da8ea.js",
+    "main.js": "/Nutritional-disorder/static/js/main.e854b624.js",
     "static/js/787.85ec17fc.chunk.js": "/Nutritional-disorder/static/js/787.85ec17fc.chunk.js",
     "static/media/fa-solid-900.ttf": "/Nutritional-disorder/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/WhatsApp_Image_2023-05-30_at_22.21.37-removebg-preview.png": "/Nutritional-disorder/static/media/WhatsApp_Image_2023-05-30_at_22.21.37-removebg-preview.ad5c48dadaaa7b72f518.png",
@@ -32,11 +32,11 @@
     "static/media/fa-v4compatibility.woff2": "/Nutritional-disorder/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/Nutritional-disorder/index.html",
     "main.88f17c62.css.map": "/Nutritional-disorder/static/css/main.88f17c62.css.map",
-    "main.868da8ea.js.map": "/Nutritional-disorder/static/js/main.868da8ea.js.map",
+    "main.e854b624.js.map": "/Nutritional-disorder/static/js/main.e854b624.js.map",
     "787.85ec17fc.chunk.js.map": "/Nutritional-disorder/static/js/787.85ec17fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88f17c62.css",
-    "static/js/main.868da8ea.js"
+    "static/js/main.e854b624.js"
   ]
 }
